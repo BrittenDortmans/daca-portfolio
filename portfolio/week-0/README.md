@@ -1,3 +1,4 @@
 # Week 0: why I am here
-I am here to learn about a field that really interests me and to expand my professional horizons in the process.
-More specifically HERE on GitHub, I'm here to create a portfolio.
+I am here to learn about databases and data analysis, as something that very much interests me. I hope to find a job in the field, whether that be going the direction of database management or data analyst. I may not have a clear goal in mind right now, however I know the direction I wish to pursue and have promised myself that as I learn more, I'll pinpoint my concrete endpoint.
+SupaBase was definitely the most new to me. I don't feel like I used any of the tools thoroughly enough to figure out which is hardest, the one that appears most difficult to me right now is also SupaBase.
+SupaBase is an SQL editor, which can be used for giving the raw data a single source of truth, so everyone queries the same database. GitHub records changes to code, notes and portfolio evidence, allowing me to maintain a traceable version history. NotebookLM is used as a source-grounded workspace, where set source materials ensure any queries are answered based on official documentation.
